@@ -25,22 +25,24 @@ I adopted progressive development philosophy, only coding a simple v1, making it
 #### Link to work
 https://github.com/kriss-spy/pycalc
 
-<!-- ### Day 0: February 30, 2016 (Example 2) -->
-<!-- ##### (delete me or comment me out)
+### Day 1:: June 2, 2025
+#### Today's Progress
+simple python cli calculator v2.1
+now it can parse simple string like "2+3.0*-1"
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+#### Thoughts
+second day without AI assistance in programming
+stackoverflow can do the job
+better with duckduckgo feature: automatically provide stackoverflow search result if query matches
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I defined a stack with common data across different instances
+remember to clear data in `__init__()`!
 
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
+it took me some time to figure out how to handle `-` in input
+since `-` could be operator and sign symbol before number
 
+anyway, it's pycalc v2.1!
+and a lot more to update
 
-<!-- ### Day 1: June 27, Monday -->
-
-<!-- **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+#### Link to work
+https://github.com/kriss-spy/pycalc
