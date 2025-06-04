@@ -25,7 +25,7 @@ I adopted progressive development philosophy, only coding a simple v1, making it
 #### Link to work
 https://github.com/kriss-spy/pycalc
 
-### Day 1:: June 2, 2025
+### Day 1: June 3, 2025
 #### Today's Progress
 simple python cli calculator v2.1
 now it can parse simple string like "2+3.0*-1"
@@ -43,6 +43,20 @@ since `-` could be operator and sign symbol before number
 
 anyway, it's pycalc v2.1!
 and a lot more to update
+
+#### Link to work
+https://github.com/kriss-spy/pycalc
+
+### Day 2: June 4, 2025
+#### Today's Progress
+simple python cli calculator v2.2
+now it can parse simple string with parenthesis
+
+#### Thoughts
+not hard
+used stack in parenthesis processing
+keep going!
+target is qalc (
 
 #### Link to work
 https://github.com/kriss-spy/pycalc
