@@ -60,3 +60,15 @@ target is qalc (
 
 #### Link to work
 https://github.com/kriss-spy/pycalc
+
+### Day 3: June 6, 2025
+#### Today's Progress
+learned about rich and argparse
+v3.0 alpha with better input and output
+
+#### Thoughts
+I have to actually go to the documentation
+since I made a rule to not to ask AI or let AI code
+
+#### Link to work
+https://github.com/kriss-spy/pycalc
