@@ -72,3 +72,16 @@ since I made a rule to not to ask AI or let AI code
 
 #### Link to work
 https://github.com/kriss-spy/pycalc
+
+### Day 4: June 7, 2025
+#### Today's Progress
+pycalc now has complete arg parse feature! more user friendly!
+compute inside or externally
+
+#### Thoughts
+I carefully checked argparse documentation to figure out how to use add_argument()
+good experience
+I am becoming less dependent on AI!
+
+#### Link to work
+https://github.com/kriss-spy/pycalc
