@@ -85,3 +85,19 @@ I am becoming less dependent on AI!
 
 #### Link to work
 https://github.com/kriss-spy/pycalc
+
+
+### Day 5: June 8, 2025
+#### Today's Progress
+TOP assginment.
+Added css to html-based recipe website
+Actually coding css withoug any AI!
+Previous pycalc (cli calculator), which is developed without AI, is a good start.
+From now on I will focus on web dev.
+
+#### Thoughts
+It's a good practice to understand what you have learned in CSS tutorials.
+From a developer perspective, you start to think what style you should use.
+
+#### Link to work
+https://github.com/kriss-spy/odin-recipes
