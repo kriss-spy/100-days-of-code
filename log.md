@@ -101,3 +101,17 @@ From a developer perspective, you start to think what style you should use.
 
 #### Link to work
 https://github.com/kriss-spy/odin-recipes
+
+
+### Day 6: June 10, 2025
+#### Today's Progress
+TOP assginment.
+flex practice
+
+#### Thoughts
+I didn't realize that flex is not a easy concept until I met the exercises
+understanding the concept is one thing, applying what you have learned in practice is another
+hopefully I can master it in further coding
+
+#### Link to work
+https://github.com/kriss-spy/css-exercises
