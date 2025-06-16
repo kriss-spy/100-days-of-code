@@ -24,6 +24,7 @@ Don't be afraid of bugs. Find bugs wisely and avoid bugs in advance.
 I adopted progressive development philosophy, only coding a simple v1, making it easy to add new features while keeping the core code.
 
 #### Link to work
+
 <https://github.com/kriss-spy/pycalc>
 
 ### Day 1: June 3, 2025
@@ -49,6 +50,7 @@ anyway, it's pycalc v2.1!
 and a lot more to update
 
 #### Link to work
+
 <https://github.com/kriss-spy/pycalc>
 
 ### Day 2: June 4, 2025
@@ -66,6 +68,7 @@ keep going!
 target is qalc (
 
 #### Link to work
+
 <https://github.com/kriss-spy/pycalc>
 
 ### Day 3: June 6, 2025
@@ -81,6 +84,7 @@ I have to actually go to the documentation
 since I made a rule to not to ask AI or let AI code
 
 #### Link to work
+
 <https://github.com/kriss-spy/pycalc>
 
 ### Day 4: June 7, 2025
@@ -97,6 +101,7 @@ good experience
 I am becoming less dependent on AI!
 
 #### Link to work
+
 <https://github.com/kriss-spy/pycalc>
 
 ### Day 5: June 8, 2025
@@ -115,6 +120,7 @@ It's a good practice to understand what you have learned in CSS tutorials.
 From a developer perspective, you start to think what style you should use.
 
 #### Link to work
+
 <https://github.com/kriss-spy/odin-recipes>
 
 ### Day 6: June 10, 2025
@@ -131,6 +137,7 @@ understanding the concept is one thing, applying what you have learned in practi
 hopefully I can master it in further coding
 
 #### Link to work
+
 <https://github.com/kriss-spy/css-exercises>
 
 ### Day 7: June 11, 2025
@@ -149,6 +156,7 @@ it's a remarkable step
 keep going
 
 #### Link to works
+
 <https://github.com/kriss-spy/project-landing-page>
 <https://kriss-spy.github.io/project-landing-page>
 
@@ -180,3 +188,19 @@ good icons out there on the internet for free
 responsive desgin, let's see what it is
 
 #### Link to work
+
+### Day 10: 2025-06-16
+
+#### Today's Progress
+
+did some JavaScript exercise
+mainly about Array methods
+map, filter, reduce, find, ...
+
+#### Thoughts
+
+I think js is more friendly then C++ :)
+
+#### Link to work
+
+<https://github.com/kriss-spy/JavaScript30>
