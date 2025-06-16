@@ -128,12 +128,14 @@ From a developer perspective, you start to think what style you should use.
 #### Today's Progress
 
 TOP assignment.
+
 flex practice
 
 #### Thoughts
 
 I didn't realize that flex is not a easy concept until I met the exercises
 understanding the concept is one thing, applying what you have learned in practice is another
+
 hopefully I can master it in further coding
 
 #### Link to work
