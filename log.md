@@ -206,3 +206,18 @@ I think js is more friendly then C++ :)
 #### Link to work
 
 <https://github.com/kriss-spy/JavaScript30>
+
+### Day 11: 2025-06-17
+
+#### Today's Progress
+
+important doc and structure change for shopguard-chatbot
+
+#### Thoughts
+
+it's about time to finish the frontend work of the project
+now I kind of know where to start
+
+#### Link to work
+
+<https://github.com/kriss-spy/shopguard-chatbot>
