@@ -221,3 +221,42 @@ now I kind of know where to start
 #### Link to work
 
 <https://github.com/kriss-spy/shopguard-chatbot>
+
+### Day 12: 2025-06-19
+
+#### Today's Progress
+
+did more js exercise
+
+working on the frontend work of the project
+
+finished basic page design
+
+#### Thoughts
+
+after I learned the very basics of web dev, HTML, CSS, JS
+
+I can tell that it's different when I look at AI generated website again
+
+now I am able to describe the bug in details, I can have deeper conversation with AI, on how the website look, what is my desired appearance
+
+it's kind of weird that I have to learn before talk to coding AI.
+maybe someday AI will be smart enough to understand what a normal people without web dev knowledge is trying to convey
+
+#### Link to work
+
+<https://github.com/kriss-spy/shopguard-chatbot>
+
+### Day 13: 2025-06-25
+
+#### Today's Progress
+
+TOP project etch-a-sketch
+use JS, not that simple
+
+#### Thoughts
+
+continue 100DaysOfCode!
+
+#### Link to work
+<https://github.com/kriss-spy/Etch-A-Sketch>
