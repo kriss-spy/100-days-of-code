@@ -259,4 +259,31 @@ use JS, not that simple
 continue 100DaysOfCode!
 
 #### Link to work
+
 <https://github.com/kriss-spy/Etch-A-Sketch>
+
+### Day 14: 2025-06-27
+
+#### Today's Progress
+
+TOP project calculator
+final project of Foundations
+
+simple web page calculator
+
+#### Thoughts
+
+it turned out to be not very easy to design the layout of calculator
+
+and the main calculation logic, implemented by js, took me some time
+
+devtools isn't good enough for debugging js, so I used vscode
+
+approaching the desert described in TOP, I guess :(
+
+well, TOP foundations is reaching the end very soon
+
+still a long way to go
+
+#### Link to work
+<https://github.com/kriss-spy/webcalc>
